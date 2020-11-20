@@ -157,9 +157,6 @@ def main():
 
         pygame.display.update()
         pygame.time.delay(100)
-    # for i in range(0,len(snake.snake_pos)):
-    #     print(str(snake.snake_pos[i]))
-
 
 if __name__ == '__main__':
     main()
